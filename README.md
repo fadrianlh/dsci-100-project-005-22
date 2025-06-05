@@ -2,7 +2,7 @@
 
 This project explores a dataset of Minecraft players and uses machine learning techniques to predict whether a player is likely to subscribe based on their age and total playtime.
 
-## 🔍 Project Overview
+##  Project Overview
 
 We used R and the tidyverse framework to:
 - Load and wrangle real-world player data
@@ -11,16 +11,16 @@ We used R and the tidyverse framework to:
 - Tune hyperparameters using cross-validation
 - Evaluate model performance
 
-## 💡 Goal
+##  Goal
 
 To build a predictive model that can help game developers or marketers target potential subscribers more effectively.
 
-## 📁 Files
+##  Files
 
 - `final_notebook.ipynb` – The full Jupyter Notebook with code and results
 - `final_notebook.html` – Exported version for easy viewing without running the code
 
-## 🤖 Tools & Libraries
+##  Tools & Libraries
 
 - R
 - tidymodels
